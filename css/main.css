@@ -1,0 +1,55 @@
+.scrollArea{
+	margin-top: 300px;
+}
+.block{
+	width: 25px;
+	height: 400px;
+	background-color: #000;
+	position: absolute;
+}
+.firstb{
+    left: 1163px;
+    top: 700px;
+}
+.secondb{
+    top: 1074px;
+    left: 546px;
+    transform: rotate(35deg);
+}
+.thirdb{
+    top: 1398px;
+    left: 764px;
+    height: 650px;
+}
+.fourthb{
+    top: 1274px;
+    left: 547px;
+    height: 1000px;
+}
+.fifthb{
+    top: 2132px;
+    left: 1166px;
+}
+#outer{
+	width:800px;
+}
+#nav{
+	position:fixed !important;
+	top: 0;
+	width: 100%;
+}
+#scrollContainer{
+	text-align: center;
+	/*position: relative;*/
+}
+
+#scroll{
+	width: 200px;
+	margin: 0 auto;
+}
+#sectionOneContainer{
+	height:4000px;
+}
+#ping{
+	width: 100px;
+}
